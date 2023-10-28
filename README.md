@@ -7,7 +7,9 @@
 
  <br>
    <p>
-    <img width="400" height"200" src="assets/images/splash.png">
+    <img width="200" height"100" src="assets/images/splash.png">
+    <img width="200" height"100" src="assets/images/home">
+    <img width="200" height"100" src="assets/images/filter">
   </p>
 <br>
 

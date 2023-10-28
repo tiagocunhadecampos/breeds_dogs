@@ -2,6 +2,17 @@
 
 **Breeds Dogs** is a Flutter application that allows you to browse images of various dog breeds.
 
+</a>
+<div align="justify">
+
+ <br>
+   <p>
+    <img width="400" height"200" src="assets/splash.png">
+  </p>
+<br>
+
+<hr>
+
 ## Running the Application
 
 Make sure you have Flutter and Dart installed on your machine. You can check the versions used for developing this project.
